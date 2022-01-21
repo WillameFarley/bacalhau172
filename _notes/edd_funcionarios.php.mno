@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:codigo;datatype:int,name:nome;datatype:string,name:apelido;datatype:string,name:cargo;datatype:string,name:setor;datatype:string,name:cpf;datatype:string,name:rg;datatype:string,name:ctps;datatype:string,name:data_nasc;datatype:string,name:estado_civil;datatype:string,name:numero_filhos;datatype:string,name:tipo_sanguineo;datatype:string,name:email;datatype:string,name:fone_com;datatype:string,name:fone_res;datatype:string,name:celular;datatype:string,name:escolaridade;datatype:string,name:situacao;datatype:string,name:ano;datatype:string,name:endereco;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:cep;datatype:string,name:login;datatype:string,name:senha;datatype:string,name:nivel;datatype:string" />
+</info>

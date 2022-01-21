@@ -1,0 +1,8 @@
+execute o data.sql que esta destro do diretorio sql
+depois altere a conexão data.php que esta dentro do diretorio connections
+
+depois é só usar o sistema a vontade, só peço que deixem os creditos na pagina menu.php,
+ja que estou disponibilizando este sistema de graça e gostaria de ser lembrado por isso,
+qualquer alteração que de melhorias ao sistema, postem novamente aqui no site e coloquem,
+no campo versão do menu.php, a devida numeração e acrescente junto ao meu nome o credito referente a pessoa que adcionou,
+se quem usar o sistema for honesto nestes quesitos, eu prometo colocar o sistema de estoque todo em ajax que estou desenvlvendo. 

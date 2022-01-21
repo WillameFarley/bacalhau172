@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Cod_Equipamento;datatype:int,name:Funcionario;datatype:string,name:Data_Entrada;datatype:string,name:Hora_Entrada;datatype:string,name:Cliente;datatype:string,name:Equipamento;datatype:string,name:Modelo;datatype:string,name:Marca;datatype:string,name:Patrimonio;datatype:string,name:Serie;datatype:string,name:Setor;datatype:string,name:Garantia;datatype:string,name:Problemacliente;datatype:blob,name:Data_Agenda;datatype:string,name:Hora_Agenda;datatype:string,name:DiagnosticoTecnico;datatype:blob,name:Solucao;datatype:blob,name:Previsaoentrega;datatype:string,name:Dataentrega;datatype:string,name:Recebido;datatype:string,name:Arquivo;datatype:string,name:valor;datatype:string" />
+</info>

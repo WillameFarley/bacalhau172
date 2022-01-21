@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsVerificador" value="name:codigo;datatype:int,name:nome;datatype:string,name:razao;datatype:string,name:tipocliente;datatype:string,name:grupocliente;datatype:string,name:proprietario;datatype:string,name:cpf;datatype:string,name:tipo_cliente;datatype:string,name:insc_estadual;datatype:string,name:insc_municipal;datatype:string,name:email;datatype:string,name:fone_com;datatype:string,name:fone_res;datatype:string,name:celular;datatype:string,name:endereco;datatype:string,name:endereco2;datatype:string,name:endereco3;datatype:string,name:mapa;datatype:string,name:bairro;datatype:string,name:bairro2;datatype:string,name:bairro3;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:cep;datatype:string" />
+</info>
